@@ -1,0 +1,34 @@
+[
+    {
+        "id": 1,
+        "name": "Ahmed",
+        "age": 21,
+        "city": "Muscat",
+        "course": "React",
+        "marks": 85
+    },
+    {
+        "id": 2,
+        "name": "Sara",
+        "age": 22,
+        "city": "Salalah",
+        "course": "Node.js",
+        "marks": 92
+    },
+    {
+        "id": 3,
+        "name": "John",
+        "age": 20,
+        "city": "Muscat",
+        "course": "React",
+        "marks": 76
+    },
+    {
+        "id": 4,
+        "name": "Mary",
+        "age": 23,
+        "city": "Sohar",
+        "course": "MongoDB",
+        "marks": 88
+    }
+]
