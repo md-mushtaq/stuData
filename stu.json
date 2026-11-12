@@ -1,34 +1,42 @@
 [
-    {
-        "id": 1,
-        "name": "Ahmed",
-        "age": 21,
-        "city": "Muscat",
-        "course": "React",
-        "marks": 85
-    },
-    {
-        "id": 2,
-        "name": "Sara",
-        "age": 22,
-        "city": "Salalah",
-        "course": "Node.js",
-        "marks": 92
-    },
-    {
-        "id": 3,
-        "name": "John",
-        "age": 20,
-        "city": "Muscat",
-        "course": "React",
-        "marks": 76
-    },
-    {
-        "id": 4,
-        "name": "Mary",
-        "age": 23,
-        "city": "Sohar",
-        "course": "MongoDB",
-        "marks": 88
-    }
+  {
+    "id": 1,
+    "name": "Ahmed",
+    "age": 20,
+    "city": "Muscat",
+    "course": "JavaScript",
+    "marks": 85
+  },
+  {
+    "id": 2,
+    "name": "Ali",
+    "age": 22,
+    "city": "Salalah",
+    "course": "React",
+    "marks": 92
+  },
+  {
+    "id": 3,
+    "name": "Sara",
+    "age": 19,
+    "city": "Sohar",
+    "course": "JavaScript",
+    "marks": 78
+  },
+  {
+    "id": 4,
+    "name": "Fatima",
+    "age": 21,
+    "city": "Muscat",
+    "course": "MongoDB",
+    "marks": 88
+  },
+  {
+    "id": 5,
+    "name": "Khalid",
+    "age": 23,
+    "city": "Nizwa",
+    "course": "React",
+    "marks": 95
+  }
 ]
